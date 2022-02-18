@@ -24,4 +24,5 @@ Om te kiezen welke adapter wordt gebruikt (bijvoorbeeld voor persistentie), wijz
 ## Hoe te benaderen?
 Om de applicatie te benaderen wordt er gebruikt gemaakt van Swagger. Wanneer de applicatie is uitgevoerd is deze te benaderen via volgende link http://localhost:8080/swagger-ui.html
 
-            
+## De onderzoeken
+De onderzoeks verslagen zijn te vinden in de onderzoeken branch en zijn opgeleverd in PDF vorm
